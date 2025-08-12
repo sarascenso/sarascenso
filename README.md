@@ -92,4 +92,4 @@ When I’m not coding, you can find me exploring new places and cultures 🌏 �
 
 ---
 
-**Reach me:** [LinkedIn](www.linkedin.com/in/sara-ascenso)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/sara-ascenso)
