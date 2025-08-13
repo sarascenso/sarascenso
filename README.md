@@ -8,12 +8,17 @@ I enjoy building scalable, secure, and user-friendly applications, following cle
 ## Technical Skills
 
 ### **Full-Stack & Core Development**
-Full-Stack Development • Software Engineering • Web Application Development • Scalable Systems Design • Clean Code Practices
-<!-- htmx -->
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-1F2328?style=flat)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-1F2328?style=flat)
+![Clean Code](https://img.shields.io/badge/Clean_Code_Practices-1F2328?style=flat)
+![Agile](https://img.shields.io/badge/Agile-1F2328?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-1F2328?style=flat)
+
 
 ### **Back-End & APIs**
-<!-- RESTful APIs • GraphQL • Microservices Architecture • API Integration • JSON •-->
-
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-1F2328?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-1F2328?style=flat)
+![API Integration](https://img.shields.io/badge/API_Integration-1F2328?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-3F7E3E?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-D1D3FA?style=flat&logo=express&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-5A24CE?style=flat&logo=dotnet&logoColor=white)
@@ -22,12 +27,11 @@ Full-Stack Development • Software Engineering • Web Application Development 
 ![Java](https://img.shields.io/badge/Java-4173AD?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3E74A8?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-154285?style=flat&logo=cplusplus&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-1F2328?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-2AB5ED?style=flat&logo=jsonwebtokens&logoColor=white)
 
 <!--
-![REST](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-000?style=flat&logo=microgenetics&logoColor=white)
 -->
 
 ### **Front-End**
@@ -40,8 +44,8 @@ Full-Stack Development • Software Engineering • Web Application Development 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3D76C2?style=flat&logo=typescript&logoColor=white)
 
 ### **Databases**
-![SQL](https://img.shields.io/badge/SQL-7A93A1?style=flat&logo=database&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-7A93A1?style=flat&logo=nosql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2328?style=flat&logo=database&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-1F2328?style=flat&logo=nosql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-216ABD?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-426D91?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0E4962?style=flat&logo=sqlite&logoColor=white)
