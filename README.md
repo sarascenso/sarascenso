@@ -55,7 +55,6 @@ I enjoy building scalable, secure, and user-friendly applications, following cle
 ### **Cloud & DevOps**
 ![Git](https://img.shields.io/badge/Git-F35633?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-1F2328?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-375FE7?style=flat&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-1F2328?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2328?style=flat&logo=githubactions&logoColor=white)
