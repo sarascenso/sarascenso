@@ -84,9 +84,9 @@ Postman
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-gamma-gold-44.vercel.app/api?username=sarascenso&hide_title=true&hide=stars,prs&show=prs_merged_percentage,discussions_started,discussions_answered&show_icons=true&title_color=123456&icon_color=123456&hide_border=true&rank_icon=github)  
-![Top Langs](https://github-readme-stats-gamma-gold-44.vercel.app/api/top-langs?username=sarascenso&title_color=123456&hide_border=true&layout=compact)
+<!--![Top Langs](https://github-readme-stats-gamma-gold-44.vercel.app/api/top-langs?username=sarascenso&title_color=123456&hide_border=true&layout=compact)-->
 
-<!--![WakaTime Stats](https://github-readme-stats-gamma-gold-44.vercel.app/api/wakatime?username=sarascenso&show_icons=true&title_color=123456&icon_color=123456&hide_border=true&layout=compact)-->
+![WakaTime Stats](https://github-readme-stats-gamma-gold-44.vercel.app/api/wakatime?username=sarascenso&show_icons=true&title_color=123456&icon_color=123456&hide_border=true&layout=compact)
 
 ---
 
